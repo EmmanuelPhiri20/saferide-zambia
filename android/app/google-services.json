@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425927472307",
+    "project_id": "saferide-zambia",
+    "storage_bucket": "saferide-zambia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425927472307:android:3aad870331b9d0a3ff6cc6",
+        "android_client_info": {
+          "package_name": "com.emmanuel.saferide.saferide_zambia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOqDKvL_dBo4Rmc7_Ja4pTb0yzwA6i30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
