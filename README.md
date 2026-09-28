@@ -38,6 +38,13 @@ SafeRide Zambia explores how a mobile application can provide passengers with be
 - Map and location-based functionality
 - View passenger feedback and ratings
 
+### Admin
+
+- View system statistics for users, drivers, passengers, and active routes
+- Monitor SOS reports submitted by passengers
+- View driver verification information
+- Monitor route and trip activity
+
 ## Technologies Used
 
 - **Flutter** - Mobile application framework
@@ -82,7 +89,35 @@ lib/
 
 ## Screenshots
 
-Screenshots demonstrating the main SafeRide workflows will be added here.
+### Passenger Dashboard
+
+The passenger dashboard provides access to ride discovery, location-based functionality, and other passenger services.
+
+<img src="docs/screenshots/passenger-dashboard.jpg" width="300" alt="SafeRide Zambia Passenger Dashboard">
+
+### Passenger Ride Request
+
+Passengers can select a destination and view the status of their ride request after it has been accepted by a driver.
+
+<img src="docs/screenshots/passenger-ride-request.jpg" width="300" alt="SafeRide Zambia Passenger Ride Request">
+
+### Driver Dashboard
+
+Drivers can manage their availability and view their current location through the driver dashboard.
+
+<img src="docs/screenshots/driver-dashboard.jpg" width="300" alt="SafeRide Zambia Driver Dashboard">
+
+### Route Management
+
+Drivers can configure and publish routes by selecting pickup and destination locations and specifying available seats.
+
+<img src="docs/screenshots/driver-route-management.jpg" width="300" alt="SafeRide Zambia Driver Route Management">
+
+### Admin Dashboard
+
+The administrative dashboard provides an overview of system activity, driver verification information, and submitted SOS reports.
+
+<img src="docs/screenshots/admin-dashboard.jpg" width="300" alt="SafeRide Zambia Admin Dashboard">
 
 ## Running the Project
 
